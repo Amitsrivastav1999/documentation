@@ -89,7 +89,7 @@ Your Raspberry Pi broadcasts this host name to the network using https://en.wiki
 +
 image::images/imager/os-customisation-hostname.png[alt="Imager OS Customisation Hostname tab.",width="80%"]
 
-. In the *Customisation > Localisation* tab, choose your capital city. Imager autocompletes the time zone and keyboard layout for that city; you can change these settings. Select *Next*.
+. In the *Customisation > Localisation* tab, choose your capital city. Imager autocompletes the time zone and keyboard layout for that city; you can change these settings. Your choice also sets the Wi-Fi regulatory domain; the regulatory domain always corresponds to the selected capital city. Select *Next*.
 +
 image::images/imager/os-customisation-locale.png[alt="Imager OS Customisation Localisation tab.",width="80%"]
 
