@@ -4,7 +4,7 @@ A brief overview of the files in this repo, and the make-targets in the `Makefil
 
 **TL;DR version**: To build the 'regular' documentation site, run `make clean; make`. To build the documentation site with pico-sdk API docs included, run `make clean; make build_doxygen_adoc; make`.
 
-## Files in the repo
+## Files in the repovcv
 
 * `documentation/asciidoc/` all our "regular" asciidoc documentation (referred to as `$(ASCIIDOC_DIR)` in the `Makefile`)
 * `documentation/images/` the images shown on the "boxes"
